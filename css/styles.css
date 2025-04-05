@@ -699,7 +699,7 @@ font-weight: 500;
 }
 
 .modal-field {
-margin-bottom: 8px;
+margin-bottom: 16px;
 }
 
 .modal-input {
@@ -761,6 +761,7 @@ border: 1px solid rgba(46, 47, 66, 0.4);
 margin-bottom: 24px;
 }
 
+
 .modal-check-text {
         font-weight: 400;
         font-size: 12px;
@@ -778,6 +779,7 @@ margin-bottom: 24px;
         text-decoration: underline;
         text-decoration-skip-ink: none;
         color: #4d5ae5;
+        
     }
 
 .modal-checkbox {
@@ -790,13 +792,13 @@ margin-bottom: 24px;
         display: inline-flex;
         align-items: center;
         justify-content: center;
-        fill: transparent;
-        
+        fill: transparent; 
     }
 
 .modal-field-clas:checked + .modal-checkbox-icon {
    background-color: #404bbf;
     fill: #F4F4FD;
+    
 }
 
 
