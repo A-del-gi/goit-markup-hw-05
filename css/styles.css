@@ -702,6 +702,10 @@ font-weight: 500;
 margin-bottom: 16px;
 }
 
+.cristal {
+    margin-bottom: 8px;
+}
+
 .modal-input {
 border: 1px solid rgba(46, 47, 66, 0.4);
     border-radius: 4px;
@@ -795,10 +799,10 @@ margin-bottom: 24px;
         fill: transparent; 
     }
 
-.modal-field-clas:checked + .modal-checkbox-icon {
+.modal-field-clas:checked + .modal-check-text span {
    background-color: #404bbf;
     fill: #F4F4FD;
-    
+    border: none;
 }
 
 
