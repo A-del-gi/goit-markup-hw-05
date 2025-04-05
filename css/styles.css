@@ -688,7 +688,7 @@ font-weight: 500;
     margin-bottom: 16px;
 }
 
-.modal-form {
+.modal-field {
     margin-bottom: 8px;
 }
 
@@ -702,7 +702,7 @@ font-weight: 500;
     display: block;
 }
 
-.modal-field {
+.modal-field-coment {
 margin-bottom: 16px;
 }
 
@@ -777,6 +777,7 @@ border: 1px solid rgba(46, 47, 66, 0.4);
         line-height: 1.17;
         
 }
+
  
 .modal-policy {
         line-height: 1.33333;
